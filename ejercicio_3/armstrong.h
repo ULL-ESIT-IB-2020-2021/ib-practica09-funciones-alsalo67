@@ -1,0 +1,1 @@
+int armstrong_number(int numero);
