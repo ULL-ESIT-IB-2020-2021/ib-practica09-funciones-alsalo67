@@ -6,4 +6,3 @@ la ejecuciónn del programa";
 
 bool primo (int numero);
 void Usage(int argc, char*argv[]);
-int primo_mersenne(int natural);
