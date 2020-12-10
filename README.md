@@ -1,5 +1,5 @@
 # Informática Básica Lab assignment 
-#Autor de los archivos de este repositorio: Alejandro Melián Lemes
+# Autor de los archivos de este repositorio: Alejandro Melián Lemes
 Al crear la cuenta de GitHub, me equivoqué y usé mi usual pseudónimo como nombre de usuario.
 alu0101443126.
 
