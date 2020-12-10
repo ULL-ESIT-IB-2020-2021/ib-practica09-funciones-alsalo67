@@ -1,0 +1,1 @@
+void find(std::string palabra, char caracter);
